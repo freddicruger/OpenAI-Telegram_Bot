@@ -71,6 +71,4 @@ python bot.py
 Бот: 🚀 В бескрайних просторах вселенской глубин...
 ```
 
-**Поддержка**: razrabtg@gmail.com 
-
 [Документация Aiogram](https://docs.aiogram.dev/) | [OpenAI API Docs](https://platform.openai.com/docs)
